@@ -13,7 +13,9 @@ Desenvolver um sistema simples para organizar o processo de agendamento de consu
 
 Python
 
-**Regra de agendamento**
+O sistema utiliza estruturas de dados do próprio Python para armazenar temporariamente as informações durante a execução.
+
+# Regra de agendamento
 
 O sistema não permite marcar uma consulta para um profissional que já possui uma consulta no mesmo dia e horário.
 
